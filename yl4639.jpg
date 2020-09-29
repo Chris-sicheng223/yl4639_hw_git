@@ -1,0 +1,4 @@
+#!/bin/bash
+echo -n "Make a web request:"
+read web
+wget $web
