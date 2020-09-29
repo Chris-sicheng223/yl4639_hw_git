@@ -1,1 +1,3 @@
 Hi, I am a txt file.
+
+This is the change made in txt file for hw step 3
